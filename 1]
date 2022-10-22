@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Page</title>
+</head>
+<body>
+    <h1>Hello </h1>
+    <hr>
+    <pr><b><big>Here are some info :  </big></b></pr> <a href="/about.html"><i>About Myself</i> </a>
+    <hr>
+    <img src="/IMG_20211002_182308.jpg" alt="My clicks"  height="400">
+    <hr>
+    <pr><b><big>Here is what i studied till now :  </big></b></pr> <a href="/education.html"><i>Education</i> </a>
+    <hr>
+    <pr><b><big>Experience :  </big></b></pr> <a href="/experience.html"><i>click Here</i> </a>
+    <hr>
+    <insw class="j"></insw>
+</body>
+</html>
+
+
+## about html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="/index.html">Back to Home Page</a>
+    <hr>
+    <h2>Self  introduction :-</h2>
+    <pr>
+        Hello, everyone
+        Myself Sandesh Dilip Tidake  and I am from  Nashik Maharashtra .
+        Currently I am pursuing my  First year BE  in computer engineering at D Y patil College of engineering . 
+        I was completed my first programing language i.e PYTHON and learning to be continues.  I would like to become a Software Engineer so I will  design or build something that will helps people.
+        My strength is I am always ready to learn something new.
+        Talking about my hobbies i like to play cricket.
+        Thank U  
+    </pr>
+</body>
+</html>
+
+
+##education
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+</head>
+<body>
+    <a href="/index.html">Back to Home Page</a>
+    <hr>
+    <h2><pre>Education.........</pre></h2>
+    <pr>I completed my 12<sup>th</sup> in science with PCMB from Nashik Maharastra. Currently i am pursuing my degree in Computer Enginnering.</pr>
+</body>
+</html>
+
+#experience
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="/index.html">Back to Home Page</a>
+    <hr>
+    <pr><big> I have no industry Experience</big></pr>
+    
+</body>
+</html>
+
